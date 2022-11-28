@@ -4,7 +4,6 @@
 # Terminal Setup
 ### Relevant Files
 - [.zshrc](.zshrc) - Zsh Shell Configuration
-- [coolnight.itermcolors](coolnight.itermcolors) - iTerm2 Color Scheme
 
 # Tmux Setup
 ### Relevant Files
