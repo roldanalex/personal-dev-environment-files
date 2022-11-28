@@ -1,5 +1,4 @@
-# dev-environemnt-files
-# My Dev Environment Files 🚀
+# My Dev Environment Files
 **IMPORTANT:** These files are my personal development environment setup. It's meant to be used as baseline. Proceed at your own risk!
 
 # Terminal Setup
